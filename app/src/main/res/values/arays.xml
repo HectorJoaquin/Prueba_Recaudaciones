@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combo_dias">
+
+        <item>Tienda    $50.00</item>
+        <item>Grifo     $90.00</item>
+        <item>Tienda1   $30.00</item>
+        <item>Grifo2    $100.00</item>
+        <item>Tienda3   $45.00</item>
+        <item>Grifo4    $20.00</item>
+        <item>Tienda5   $55.00</item>
+        <item>Grifo6    $89.00</item>
+        <item>Tienda7   $20.00</item>
+        <item>Grifo8    $12.00</item>
+
+
+    </string-array>
+
+</resources>
